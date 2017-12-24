@@ -1,0 +1,5 @@
+﻿  window1.cpp
+c:\users\матвей\documents\visual studio 2015\projects\tqueue\graphics\window1.h(389): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  window1.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Graphics.vcxproj -> C:\Users\Матвей\Documents\Visual Studio 2015\Projects\TQueue\Debug\Graphics.exe
+  Graphics.vcxproj -> C:\Users\Матвей\Documents\Visual Studio 2015\Projects\TQueue\Debug\Graphics.pdb (Partial PDB)
